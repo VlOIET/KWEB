@@ -1,0 +1,17 @@
+.header{
+    font-size: large;
+}
+
+.numbers{
+    margin-left: 35px;
+    text-align: center;
+}
+
+.number{
+    background-color: lightcoral;
+    padding: 16px 18px;
+    border: 1px solid black; 
+    border-radius: 100px 100px;
+    margin: 20px 15px 20px 10px;
+    display: inline-block;
+}
