@@ -1,0 +1,33 @@
+#scroll-button{
+
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: darkblue;
+    border-radius: 100px;
+    border-color: darkblue;
+
+}
+
+.up-button{
+
+    color: white;
+    padding: 0px 5px 5px 5px;
+
+}
+
+.partition{
+
+    background-color: white;
+    margin: 0px 2px;
+    width: 22px;
+    height: 1px;
+
+}
+
+.down-button{
+
+    color: white;
+    padding: 0px 5px 5px 5px;
+
+}
